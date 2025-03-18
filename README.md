@@ -23,7 +23,7 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**â€
 
 <div align="center">
 
-![Romy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=tokyonight)
+![Romy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
 
 </div>
 ---
