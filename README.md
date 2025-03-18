@@ -20,5 +20,5 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**â€
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rosemary-kamau-7975a3356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Twitter: [@xoromyrose](https://x.com/xoromyrose?s=21)
 ### ðŸ“Š GitHub Stats:
-![Romy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemaaryy&show_icons=true&theme=default)
+![Romy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=default)
 ---
