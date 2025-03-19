@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Romy!
+## 👋 Hey there, I'm Rosemary!
 
 Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**—where I bridge the gap between code and infrastructure. I love solving complex problems and optimizing workflows with cutting-edge technology.
 
@@ -23,7 +23,7 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**�
 
 <div align="center">
 
-![Romy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
+![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
 
 </div>
 
