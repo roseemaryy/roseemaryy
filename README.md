@@ -7,7 +7,7 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**�
 - Design and manage databases with **MySQL and SQL**.
 - Implement CI/CD pipelines and streamline deployments.
 - Work with container orchestration tools like **Docker** and **Kubernetes**.
-- Manage cloud environments on **AWS** and **Azure**.
+- Manage cloud environments on **GCP** and **Azure**.
 
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
