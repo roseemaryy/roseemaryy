@@ -3,16 +3,18 @@
 Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**—where I bridge the gap between code and infrastructure. I love solving complex problems and optimizing workflows with cutting-edge technology.
 
 ### 💻 **What I Do**
-- Automate cloud infrastructure using **Python, Bash, and PowerShell**.
-- Design and manage databases with **MySQL and SQL**.
-- Implement CI/CD pipelines and streamline deployments.
-- Work with container orchestration tools like **Docker** and **Kubernetes**.
-- Manage cloud environments on **GCP** and **Azure**.
+- Automate cloud infrastructure using Python, Bash, and PowerShell.
+- Design and manage databases with MySQL and SQL.
+- Implement CI/CD pipelines using Jenkins, GitHub Actions, and GitLab CI/CD.
+- Work with container orchestration tools like Docker and Kubernetes.
+- Manage cloud environments on GCP and Azure.
+- Automate infrastructure provisioning and configuration using Ansible.
+- Monitor and observe system performance with tools like Prometheus, Grafana, ELK Stack, Datadog, Splunk, and New Relic.
 
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,bash,powershell,docker,kubernetes,gcp,azure,github,gitlab,linux,terraform" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,bash,powershell,docker,kubernetes,gcp,azure,ansible,jenkins,prometheus,grafana,elasticsearch,datadog,splunk,newrelic,github,gitlab,linux,terraform" />
   </a>
 </p>
 
