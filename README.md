@@ -19,6 +19,7 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**â€
 ![YAML](https://img.shields.io/badge/YAML-CC6699?style=for-the-badge&logo=yaml&logoColor=white)
   </a>
 </p>
+
 ### ðŸ“¬ **Connect with Me**
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rosemary-kamau-7975a3356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Twitter: [@xoromyrose](https://x.com/xoromyrose?s=21)
