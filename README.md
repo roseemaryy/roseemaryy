@@ -37,4 +37,7 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**�
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CC6699?style=for-the-badge&logo=yaml&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🧑‍💻 Languages I Use  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 ---
