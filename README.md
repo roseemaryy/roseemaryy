@@ -33,4 +33,3 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**â€
 <div align ="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 </div>
----
