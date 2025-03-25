@@ -14,7 +14,7 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**�
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html5,css3,sql,yaml,mysql,bash,powershell,docker,kubernetes,gcp,azure,ansible,jenkins,prometheus,grafana,elasticsearch,datadog,splunk,newrelic,github,gitlab,linux,terraform" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,sql,yaml,mysql,bash,powershell,docker,kubernetes,gcp,azure,ansible,jenkins,prometheus,grafana,elasticsearch,datadog,splunk,newrelic,github,gitlab,linux,terraform" />
   </a>
 </p>
 
@@ -28,6 +28,4 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**�
 ![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
 
 </div>
-### 🧑‍💻 Languages I Use
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&langs_count=6&theme=radical)
 ---
