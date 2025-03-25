@@ -14,7 +14,8 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**�
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,bash,powershell,docker,kubernetes,gcp,azure,ansible,jenkins,prometheus,grafana,elasicsearch,datadog,splunk,newrelic,github,gitlab,linux,terraform" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,bash,powershell,docker,kubernetes,gcp,azure,ansible,jenkins,prometheus,grafana,elasicsearch,datadog,splunk,newrelic,github,gitlab,linux,terraform,html,css" />
+    ![YAML](https://img.shields.io/badge/YAML-CC6699?style=for-the-badge&logo=yaml&logoColor=white)
   </a>
 </p>
 
