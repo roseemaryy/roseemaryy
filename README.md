@@ -15,10 +15,9 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**â€
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,mysql,bash,powershell,docker,kubernetes,gcp,azure,ansible,jenkins,prometheus,grafana,elasicsearch,datadog,splunk,newrelic,github,gitlab,linux,terraform,html,css" />
-    ![YAML](https://img.shields.io/badge/YAML-CC6699?style=for-the-badge&logo=yaml&logoColor=white)
   </a>
 </p>
-
+![YAML] (https://img.shields.io/badge/YAML-CCCCCC?style=for-the-badge&logo=code&logoColor=black)
 ### ðŸ“¬ **Connect with Me**
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rosemary-kamau-7975a3356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Twitter: [@xoromyrose](https://x.com/xoromyrose?s=21)
