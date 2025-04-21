@@ -1,23 +1,33 @@
 ## 👋 Hey there, I'm Rosemary!
 
-Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**—where I bridge the gap between code and infrastructure. I love solving complex problems and optimizing workflows with cutting-edge technology.
+**Cloud Infrastructure & Ops | Site Reliability | Cloud Security & Compliance**
 
-### 💻 **What I Do**
-- Automate cloud infrastructure using Python, Bash, and PowerShell.
-- Design and manage databases with MySQL and SQL.
-- Implement CI/CD pipelines using Jenkins, GitHub Actions, and GitLab CI/CD.
-- Work with container orchestration tools like Docker and Kubernetes.
-- Manage cloud environments on GCP and Azure.
-- Automate infrastructure provisioning and configuration using Ansible.
-- Monitor and observe system performance with tools like Prometheus, Grafana, ELK Stack, Datadog, Splunk, and New Relic.
+Currently learning everything about cloud envirnoments, automation, and security architecture.
+I'm passionate about making systems reliable, scalable, and secure-without writing code.
 
+### 💻 **My Focus Area:**
+- Site Reliability Engineering (SRE).
+- Azure Infrastructure & Cost Management.
+- IAM & Cloud Security Practices.
+- Monitoring, Alerting, & Automation Tools.
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,bash,powershell,docker,kubernetes,gcp,azure,ansible,jenkins,prometheus,grafana,elasicsearch,datadog,splunk,newrelic,github,gitlab,linux,terraform,html,css" />
-    
-![YAML](https://img.shields.io/badge/YAML-CC6699?style=for-the-badge&logo=yaml&logoColor=white)
-  </a>
+  **Cloud Platforms**  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**DevOps & Monitoring**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**Security & IAM**  
+![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Monitoring & Ops**  
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 </p>
 
 ### 📬 **Connect with Me**
@@ -29,9 +39,4 @@ Passionate about **Software Development, DevOps, Cloud Automation, and AIOps**�
 
 ![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
 
-</div>
-
-### 🧑‍💻 Languages I Use  
-<div align ="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 </div>
