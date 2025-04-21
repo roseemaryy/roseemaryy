@@ -2,7 +2,7 @@
 
 **Cloud Infrastructure & Ops | Site Reliability | Cloud Security & Compliance**
 
-Currently learning everything about cloud envirnoments, automation, and security architecture.
+Currently learning everything about cloud environment, automation, and security architecture.
 I'm passionate about making systems reliable, scalable, and secure-without writing code.
 
 ### 💻 **My Focus Area:**
