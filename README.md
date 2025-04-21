@@ -26,7 +26,7 @@ I'm passionate about making systems reliable, scalable, and secure-without writi
 
 ### 📬 **Connect with Me**
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rosemary-kamau-7975a3356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Twitter: [@xoromyrose](https://x.com/xoromyrose?s=21)
+- Twitter: [@rommmyyy_](https://x.com/rommmyyy_?s=21))
 ## 📊 GitHub Stats:
 
 <div align="center">
