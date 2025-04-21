@@ -12,20 +12,14 @@ I'm passionate about making systems reliable, scalable, and secure-without writi
 - Monitoring, Alerting, & Automation Tools.
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
-  **Cloud Platforms**  
+ 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**DevOps & Monitoring**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-**Security & IAM**  
 ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**Monitoring & Ops**  
 ![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 </p>
