@@ -38,19 +38,6 @@ I enjoy working with data to uncover patterns, build predictive models, and pres
 
 ---
 
-## 📁 Projects
-
-- **[Data Exploration & Visualization](https://github.com/your-username/project-name)**  
-  Exploratory data analysis with Python, Pandas, and Matplotlib.
-
-- **[Machine Learning Pipeline](https://github.com/your-username/project-name)**  
-  End-to-end machine learning workflow: data preprocessing, modeling, and evaluation.
-
-- **[Azure Dashboard Integration](https://github.com/your-username/project-name)**  
-  Monitoring and alerting setup using Azure Monitor, Grafana, and Prometheus.
-
----
-
 ## 📊 GitHub Stats
 
 ![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)  
