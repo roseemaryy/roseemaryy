@@ -1,50 +1,65 @@
-# 👋🏾 Hey there, I'm Rosemary!
+<h1 align="center">👋 Hey there, I'm Rosemary!</h1>
 
-**Machine Learning & Data Analysis | Data-Driven Insights | Python & Azure Tools**
-
-I enjoy working with data to uncover patterns, build predictive models, and present insights that support smarter decisions. I'm interested in applying machine learning and analytical techniques to real-world problems using Python, SQL, and cloud-based tools.
-
----
-
-## ⚡ My Focus Areas:
-- Data Cleaning, Wrangling, and Analysis  
-- Machine Learning with Python & scikit-learn  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization and Storytelling  
-- Azure-based Monitoring, Automation, and Deployment
+<p align="center">
+  <strong>Machine Learning Engineer | Data-Driven Solutions | MLOps & DevOps | Python, Azure, Site Reliability</strong>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+🎯 **About Me**
 
-**Core Tools & Libraries**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)  
+I'm a Machine Learning Engineer with a strong foundation in DevOps, and cloud technologies. I specialize in designing, building, and deploying machine learning models that improve business outcomes. With a keen interest in automation and system performance, I also bring MLOps and Site Reliability Engineering principles into my workflow to ensure scalable, maintainable, and production-ready solutions.
 
-**Cloud & Monitoring Tools**  
-![MICROSOFT AZURE](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![AZURE AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
-![AZURE MONITOR](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=azuremonitor&logoColor=white)  
-![MICROSOFT DEFENDER](https://img.shields.io/badge/Microsoft%20Defender-5E5E5E?style=for-the-badge&logo=microsoftdefender&logoColor=white)  
-![AZURE DEVOPS](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)  
-![GITHUB ACTIONS](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
-![TERRAFORM](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![GRAFANA](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
-![PROMETHEUS](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+I'm deeply passionate about clean data, smart systems, and continuous learning and I enjoy bringing analytical thinking into everything I do.
 
 ---
 
-## 📊 GitHub Stats
+⚡ **My Focus Areas**
 
-![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=radical)
+- 🔍 **Data Cleaning, Wrangling, and Feature Engineering**
+- 🤖 **Machine Learning Model Development & Evaluation**
+- ☁️ **MLOps: Deployment, Monitoring, and Automation**
+- 🚀 **DevOps: CI/CD, Infrastructure as Code**
+- 📊 **Cloud Monitoring & Site Reliability (Azure + Observability Tools)**
+- 📈 **Visualizing Data to Support Business Decisions**
 
 ---
 
-## 📬 Connect with Me  
-- Twitter: [@rommmmyyy_](https://twitter.com/rommmmyyy_)
-- LinkedIn: [@Rosemary Kamau](https://www.linkedin.com/in/rosemary-kamau-7975a3356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+🧰 **Tech Stack & Tools**
+
+### 🐍 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+### 📦 ML & Data Libraries
+![scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-008080?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-42b983?logo=python&logoColor=white)
+
+### ☁️ Cloud & DevOps Tools
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+### 🔍 Monitoring & SRE Tools
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/-Azure%20Monitor-0078D7?logo=azuredevops&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-2C2C2C?logo=microsoft&logoColor=white)
+
+---
+
+📊 **GitHub Stats**
+
+![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemaryy&show_icons=true&theme=radical)
+
+---
+
+💬 **Let’s Connect!**
+
+📍 Nairobi, Kenya  
+📧 [kamaurosemary.n@gmail.com](mailto:kamaurosemary.n@gmail.com)  
+🌐 [Portfolio](https://rosemary-kamau.bio.link)  
+🐱 [GitHub](https://github.com/rosemaryy)
