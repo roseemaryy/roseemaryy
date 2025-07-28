@@ -62,9 +62,6 @@ I'm open to collaborating on exciting AI, ML, and MLOps projects!
 I'm open to contributions, collaborations, and support.
 
 [![GitHub Followers](https://img.shields.io/github/followers/roseemaryy?label=Follow&style=social)](https://github.com/roseemaryy)
-## ☕ Support My Work
-
-If you find my work helpful and would like to support me, you can do so via [PayPal](https://www.paypal.me/RosemaryKamau).
 
 Your support means a lot and helps me continue building open-source AI and machine learning projects. Thank you! 💙
 ---
