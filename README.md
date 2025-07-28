@@ -49,6 +49,22 @@ I'm deeply passionate about clean data, smart systems, and continuous learning a
 ![Azure Monitor](https://img.shields.io/badge/-Azure%20Monitor-0078D7?logo=azuredevops&logoColor=white)
 ![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-2C2C2C?logo=microsoft&logoColor=white)
 
+
+## 🤝 Contributions
+
+I'm open to collaborating on exciting AI, ML, and MLOps projects!
+
+- 📂 Check out my pinned projects below
+- 💡 Got an idea? Open an issue or reach out
+- 🚀 Always open to contributing to impactful open-source AI projects!
+## 🤝 Let's Connect
+
+I'm open to contributions, collaborations, and support.
+
+[![GitHub Followers](https://img.shields.io/github/followers/yroseemaryy?label=Follow&style=social)](https://github.com/roseemaryy)
+[![Sponsor Me](https://img.shields.io/badge/Sponsor-❤️-red?style=flat-square)](https://github.com/sponsors/roseemaryy)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/roseemaryy)
+
 ---
 
 📊 **GitHub Stats**
