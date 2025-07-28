@@ -61,7 +61,7 @@ I'm open to collaborating on exciting AI, ML, and MLOps projects!
 
 I'm open to contributions, collaborations, and support.
 
-[![GitHub Followers](https://img.shields.io/github/followers/yroseemaryy?label=Follow&style=social)](https://github.com/roseemaryy)
+[![GitHub Followers](https://img.shields.io/github/followers/roseemaryy?label=Follow&style=social)](https://github.com/roseemaryy)
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-❤️-red?style=flat-square)](https://github.com/sponsors/roseemaryy)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/roseemaryy)
 
