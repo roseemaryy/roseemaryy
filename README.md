@@ -53,7 +53,10 @@ I'm deeply passionate about clean data, smart systems, and continuous learning a
 
 📊 **GitHub Stats**
 
-![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemaryy&show_icons=true&theme=radical)
+![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
+
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=radical)
 
 ---
 
