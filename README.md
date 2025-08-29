@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Rosemary!</h1>
+<h1 align="center">👋 Hey there, I'm Rosemary Kamau!</h1>
 
 <p align="center">
   <strong>Machine Learning Engineer | Data-Driven Solutions | MLOps & DevOps | Python, Azure, Site Reliability</strong>
