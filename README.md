@@ -35,18 +35,33 @@ I'm deeply passionate about clean data, smart systems, and continuous learning a
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-008080?logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-42b983?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?logo=dvc&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ### ☁️ Cloud & DevOps Tools
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2F4F4F?logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
+
+
 
 ### 🔍 Monitoring & SRE Tools
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Azure Monitor](https://img.shields.io/badge/-Azure%20Monitor-0078D7?logo=azuredevops&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-2C2C2C?lo
+![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-2C2C2C?logoColor=white)
+![Azure Kubernetes Service](https://img.shields.io/badge/AKS-0078D4?logo=kubernetes&logoColor=white)
+![Azure Container Registry](https://img.shields.io/badge/ACR-0078D4?logo=docker&logoColor=white)
 
 ---
 
