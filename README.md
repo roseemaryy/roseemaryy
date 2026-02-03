@@ -80,4 +80,5 @@ I'm deeply passionate about clean data, smart systems, and continuous learning a
 
 📍 Nairobi, Kenya  
 📧 [kamaurosemary.n@gmail.com](mailto:kamaurosemary.n@gmail.com)
-💻 Portfolio: https://ml-portfolio-eight.vercel.app
+___
+💻 Portfolio:(https://kamaurosemary.vercel.app)  || (https://rosemarykamau.vercel.app/)
