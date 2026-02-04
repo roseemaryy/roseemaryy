@@ -1,84 +1,336 @@
-<h1 align="center">👋 Hey there, I'm Rosemary Kamau!</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Machine Learning Engineer | Data-Driven Solutions | MLOps & DevOps | Python, Azure, Site Reliability</strong>
-</p>
+# 🚀 Rosemary Kamau
 
----
+### Platform Engineer | Cloud Infrastructure Architect | MLOps to Platform Transition
 
-🎯 **About Me**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+the+systems+teams+ship+on;From+ML+pipelines+to+platforms;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Infrastructure+as+Code+enthusiast" alt="Typing SVG" />
 
-I'm a Machine Learning Engineer with a strong foundation in DevOps, and cloud technologies. I specialize in designing, building, and deploying machine learning models that improve business outcomes. With a keen interest in automation and system performance, I also bring MLOps and Site Reliability Engineering principles into my workflow to ensure scalable, maintainable, and production-ready solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rosemarykamau.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamaurosemary.n@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roseemaryy)
 
-I'm deeply passionate about clean data, smart systems, and continuous learning and I enjoy bringing analytical thinking into everything I do.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
----
-
-⚡ **My Focus Areas**
-
-- 🔍 **Data Cleaning, Wrangling, and Feature Engineering**
-- 🤖 **Machine Learning Model Development & Evaluation**
-- ☁️ **MLOps: Deployment, Monitoring, and Automation**
-- 🚀 **DevOps: CI/CD, Infrastructure as Code**
-- 📊 **Cloud Monitoring & Site Reliability (Azure + Observability Tools)**
-- 📈 **Visualizing Data to Support Business Decisions**
----
-
-🧰 **Tech Stack & Tools**
-
-### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-### 📦 ML & Data Libraries
-![scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-008080?logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-42b983?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?logo=dvc&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
-### ☁️ Cloud & DevOps Tools
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-2F4F4F?logo=python&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
-
-
-
-### 🔍 Monitoring & SRE Tools
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/-Azure%20Monitor-0078D7?logo=azuredevops&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-2C2C2C?logoColor=white)
-![Azure Kubernetes Service](https://img.shields.io/badge/AKS-0078D4?logo=kubernetes&logoColor=white)
-![Azure Container Registry](https://img.shields.io/badge/ACR-0078D4?logo=docker&logoColor=white)
+</div>
 
 ---
 
+## 👨‍💻 About Me
 
+```yaml
+name: Rosemary Kamau
+role: Platform Engineer
+location: Nairobi, Kenya 🇰🇪
+experience:
+  - Platform Engineering: 1 year
+  - MLOps Engineering: 1 year
+focus:
+  - Cloud-native infrastructure
+  - Kubernetes orchestration
+  - CI/CD automation
+  - Infrastructure as Code
+  - Self-service developer platforms
+  - Observability & monitoring
+passion: "Building systems that make entire engineering teams faster"
+current_mission: "Making infrastructure invisible when it's done right"
+```
 
-📊 **GitHub Stats**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
+### 🎯 My Journey
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=radical)
+From shipping **ML models** to building the **platforms underneath** — I moved from MLOps into pure Platform Engineering because I realized the biggest impact wasn't in the models themselves, but in the infrastructure that lets entire teams deploy, scale, and monitor anything with confidence.
+
+**What I do now:**
+- 🏗️ Design production Kubernetes infrastructure on AWS & Azure
+- ⚡ Build CI/CD pipelines that go from commit to prod in minutes
+- 📊 Implement observability stacks (Prometheus, Grafana, Loki)
+- 🔐 Manage secrets & security with Vault & RBAC policies
+- 🛠️ Create self-service platforms that remove bottlenecks
+- 📦 Automate everything with Terraform & GitOps
 
 ---
 
-💬 **Let’s Connect!**
+## 🛠️ Tech Stack
 
-📍 Nairobi, Kenya  
-📧 [kamaurosemary.n@gmail.com](mailto:kamaurosemary.n@gmail.com)
-___
-💻 Portfolio:(https://kamaurosemary.vercel.app)  || (https://rosemarykamau.vercel.app/)
+<div align="center">
+
+### ☁️ Cloud & Container Orchestration
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![AKS](https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🔄 CI/CD & GitOps
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Atlantis](https://img.shields.io/badge/Atlantis-4A90E2?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 📊 Observability & Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![AlertManager](https://img.shields.io/badge/AlertManager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### 🔐 Security & Secrets Management
+
+![Vault](https://img.shields.io/badge/vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![OPA](https://img.shields.io/badge/Open_Policy_Agent-7D9199?style=for-the-badge&logo=open-policy-agent&logoColor=white)
+
+### 🌐 Networking & Service Mesh
+
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![CoreDNS](https://img.shields.io/badge/CoreDNS-2496ED?style=for-the-badge&logo=coredns&logoColor=white)
+![Cert Manager](https://img.shields.io/badge/Cert_Manager-326CE5?style=for-the-badge&logo=lets-encrypt&logoColor=white)
+
+### 🚀 Developer Experience Tools
+
+![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black)
+![k9s](https://img.shields.io/badge/k9s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Lens](https://img.shields.io/badge/Lens-3D90CE?style=for-the-badge&logo=lens&logoColor=white)
+![Skaffold](https://img.shields.io/badge/Skaffold-1967D2?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 💾 Data & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+
+### 🧪 Testing & Quality
+
+![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Terratest](https://img.shields.io/badge/Terratest-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+
+### 💻 Programming & Scripting
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+
+### 🗄️ Version Control & Collaboration
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🤖 MLOps Tools (Previous Experience)
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+---
+
+## 💼 What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Current Focus
+
+```typescript
+const currentWork = {
+  role: "Platform Engineer",
+  building: [
+    "Production K8s clusters on EKS",
+    "Self-service developer platforms",
+    "Zero-downtime CI/CD pipelines",
+    "End-to-end observability stacks"
+  ],
+  learning: [
+    "Advanced Istio service mesh",
+    "Cluster autoscaling patterns",
+    "Multi-cluster federation",
+    "eBPF for observability"
+  ]
+}
+```
+
+</td>
+<td width="50%">
+
+### 🎯 Recent Wins
+
+- ✅ Reduced deployment time 82% (45min → 8min)
+- ✅ Cut MTTR by 60% with SLO-based alerting
+- ✅ Eliminated hardcoded secrets via Vault
+- ✅ Automated infra testing with Terratest
+- ✅ Zero-downtime blue-green deployments
+- ✅ Self-service platform with Backstage
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 SLO Violation Detector
+**Platform Monitoring Service**
+
+Containerized FastAPI service that ingests live metrics and flags SLO breaches before they hit users.
+
+**Stack:** Docker • FastAPI • Prometheus • Kubernetes
+
+🔗 [View on GitHub →](https://github.com/roseemaryy/AI-Powered-SLO-Violation-Detector)
+
+</td>
+<td width="50%">
+
+### 🛡️ Cybersecurity Anomaly Detection
+**End-to-End MLOps Pipeline**
+
+Reproducible training pipeline with artifact versioning — zero drift between training and serving.
+
+**Stack:** Docker • FastAPI • scikit-learn • Joblib
+
+🔗 [View on GitHub →](https://github.com/roseemaryy/Cybersecurity-Anomaly-Detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧬 Cancer Omics Classifier
+**Multi-Service Platform**
+
+Independent classifiers as standalone artifacts — swap, A/B test, or redeploy any service without touching others.
+
+**Stack:** Python • Docker • Artifact Packaging
+
+🔗 [View on GitHub →](https://github.com/roseemaryy/Cancer-Omics-Classifier)
+
+</td>
+<td width="50%">
+
+### 🖼️ Image Anomaly Detection
+**Worker/Serving Split Architecture**
+
+Clean separation: training worker writes to shared store, serving layer picks up at startup.
+
+**Stack:** TensorFlow • Docker • FastAPI • CI/CD
+
+🔗 [View on GitHub →](https://github.com/roseemaryy/Image-Anomaly-Detection-System-)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E1E1E1" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roseemaryy&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=E1E1E1" alt="Top Languages" height="180"/>
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🎓 Education | 📜 Certifications |
+|-------------|------------------|
+| 🎓 BSc-MSc Computer Science - Kenyatta University | ✅ Platform Engineering & MLOps - Moringa School |
+| 🎓 Software Engineering (Associate) - Moringa School | ✅ Kubernetes Administrator (in progress) |
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roseemaryy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F" width="100%"/>
+
+---
+
+## 💭 Engineering Philosophy
+
+<div align="center">
+
+> *"The best platform engineers don't just build systems that work — they build systems that make everyone around them work better. Infrastructure is invisible when it's done right, and that's the point."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Building the infrastructure of tomorrow, one commit at a time.**
+
+📍 Nairobi, Kenya 🇰🇪  
+📧 kamaurosemary.n@gmail.com  
+💼 [Portfolio](https://rosemarykamau.vercel.app) | [LinkedIn](https://linkedin.com/in/yourprofile)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Fun Facts
+
+```python
+fun_facts = {
+    "favorite_tool": "kubectl (with k9s for the visual joy)",
+    "debug_style": "Print statements > debuggers (don't @ me)",
+    "coffee_dependency": "Directly proportional to cluster size",
+    "deployment_time": "Friday 5pm (just kidding... or am I?)",
+    "motto": "If it's not in Git, it doesn't exist"
+}
+```
+
+![Visitor Count](https://profile-counter.glitch.me/roseemaryy/count.svg)
+
+**⭐ Star my repos if you find them useful!**
+
+</div>
