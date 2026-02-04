@@ -114,11 +114,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
+![Rosemary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roseemaryy&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=radical)
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=radical)
 
 ---
 
