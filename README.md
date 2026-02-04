@@ -17,42 +17,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```yaml
-name: Rosemary Kamau
-role: Platform Engineer
-location: Nairobi, Kenya 🇰🇪
-experience:
-  - Platform Engineering: 1 year
-  - MLOps Engineering: 1 year
-focus:
-  - Cloud-native infrastructure
-  - Kubernetes orchestration
-  - CI/CD automation
-  - Infrastructure as Code
-  - Self-service developer platforms
-  - Observability & monitoring
-passion: "Building systems that make entire engineering teams faster"
-current_mission: "Making infrastructure invisible when it's done right"
-```
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🎯 My Journey
-
-From shipping **ML models** to building the **platforms underneath** — I moved from MLOps into pure Platform Engineering because I realized the biggest impact wasn't in the models themselves, but in the infrastructure that lets entire teams deploy, scale, and monitor anything with confidence.
-
-**What I do now:**
-- 🏗️ Design production Kubernetes infrastructure on AWS & Azure
-- ⚡ Build CI/CD pipelines that go from commit to prod in minutes
-- 📊 Implement observability stacks (Prometheus, Grafana, Loki)
-- 🔐 Manage secrets & security with Vault & RBAC policies
-- 🛠️ Create self-service platforms that remove bottlenecks
-- 📦 Automate everything with Terraform & GitOps
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -148,50 +112,6 @@ From shipping **ML models** to building the **platforms underneath** — I moved
 
 ---
 
-## 💼 What I'm Working On
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Current Focus
-
-```typescript
-const currentWork = {
-  role: "Platform Engineer",
-  building: [
-    "Production K8s clusters on EKS",
-    "Self-service developer platforms",
-    "Zero-downtime CI/CD pipelines",
-    "End-to-end observability stacks"
-  ],
-  learning: [
-    "Advanced Istio service mesh",
-    "Cluster autoscaling patterns",
-    "Multi-cluster federation",
-    "eBPF for observability"
-  ]
-}
-```
-
-</td>
-<td width="50%">
-
-### 🎯 Recent Wins
-
-- ✅ Reduced deployment time 82% (45min → 8min)
-- ✅ Cut MTTR by 60% with SLO-based alerting
-- ✅ Eliminated hardcoded secrets via Vault
-- ✅ Automated infra testing with Terratest
-- ✅ Zero-downtime blue-green deployments
-- ✅ Self-service platform with Backstage
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -268,19 +188,6 @@ Clean separation: training worker writes to shared store, serving layer picks up
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🎓 Education | 📜 Certifications |
-|-------------|------------------|
-| 🎓 BSc-MSc Computer Science - Kenyatta University | ✅ Platform Engineering & MLOps - Moringa School |
-| 🎓 Software Engineering (Associate) - Moringa School | ✅ Kubernetes Administrator (in progress) |
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roseemaryy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F" width="100%"/>
@@ -316,20 +223,6 @@ Clean separation: training worker writes to shared store, serving layer picks up
 ---
 
 <div align="center">
-
-### 💡 Fun Facts
-
-```python
-fun_facts = {
-    "favorite_tool": "kubectl (with k9s for the visual joy)",
-    "debug_style": "Print statements > debuggers (don't @ me)",
-    "coffee_dependency": "Directly proportional to cluster size",
-    "deployment_time": "Friday 5pm (just kidding... or am I?)",
-    "motto": "If it's not in Git, it doesn't exist"
-}
-```
-
-![Visitor Count](https://profile-counter.glitch.me/roseemaryy/count.svg)
 
 **⭐ Star my repos if you find them useful!**
 
