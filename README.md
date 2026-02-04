@@ -112,79 +112,13 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔍 SLO Violation Detector
-**Platform Monitoring Service**
-
-Containerized FastAPI service that ingests live metrics and flags SLO breaches before they hit users.
-
-**Stack:** Docker • FastAPI • Prometheus • Kubernetes
-
-🔗 [View on GitHub →](https://github.com/roseemaryy/AI-Powered-SLO-Violation-Detector)
-
-</td>
-<td width="50%">
-
-### 🛡️ Cybersecurity Anomaly Detection
-**End-to-End MLOps Pipeline**
-
-Reproducible training pipeline with artifact versioning — zero drift between training and serving.
-
-**Stack:** Docker • FastAPI • scikit-learn • Joblib
-
-🔗 [View on GitHub →](https://github.com/roseemaryy/Cybersecurity-Anomaly-Detection)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧬 Cancer Omics Classifier
-**Multi-Service Platform**
-
-Independent classifiers as standalone artifacts — swap, A/B test, or redeploy any service without touching others.
-
-**Stack:** Python • Docker • Artifact Packaging
-
-🔗 [View on GitHub →](https://github.com/roseemaryy/Cancer-Omics-Classifier)
-
-</td>
-<td width="50%">
-
-### 🖼️ Image Anomaly Detection
-**Worker/Serving Split Architecture**
-
-Clean separation: training worker writes to shared store, serving layer picks up at startup.
-
-**Stack:** TensorFlow • Docker • FastAPI • CI/CD
-
-🔗 [View on GitHub →](https://github.com/roseemaryy/Image-Anomaly-Detection-System-)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E1E1E1" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roseemaryy&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" height="180"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roseemaryy&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=E1E1E1" alt="Top Languages" height="180"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=radical)
 
 ---
 
