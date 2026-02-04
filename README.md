@@ -124,17 +124,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roseemaryy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F" width="100%"/>
 
----
-
-## 💭 Engineering Philosophy
-
-<div align="center">
-
-> *"The best platform engineers don't just build systems that work — they build systems that make everyone around them work better. Infrastructure is invisible when it's done right, and that's the point."*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
-
-</div>
 
 ---
 
