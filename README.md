@@ -111,20 +111,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/roseemaryy)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=roseemaryy&theme=tokyonight&hide_border=true)](https://github.com/roseemaryy)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/roseemaryy)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roseemaryy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F85D7F" width="100%"/>
