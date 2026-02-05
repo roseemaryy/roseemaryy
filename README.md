@@ -115,10 +115,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roseemaryy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/roseemaryy)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=roseemaryy&theme=tokyonight&hide_border=true)](https://github.com/roseemaryy)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/roseemaryy)
 
 </div>
 
