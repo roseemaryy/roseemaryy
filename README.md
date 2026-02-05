@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+the+systems+teams+ship+on;From+ML+pipelines+to+platforms;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Infrastructure+as+Code+enthusiast" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rosemarykamau.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamaurosemary.n@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roseemaryy)
@@ -114,9 +113,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=roseemaryy&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=radical&hide=html,css)
+<img src="https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roseemaryy&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
 
 ---
 
