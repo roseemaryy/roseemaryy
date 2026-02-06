@@ -4,8 +4,6 @@
 
 ### Machine Learning Engineer | DevOps | SRE | Platform Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+intelligent+data+solutions;MLOps+%7C+DevOps+%7C+Cloud+Infrastructure;Turning+data+into+actionable+insights" alt="Typing SVG" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rosemarykamau.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamaurosemary.n@gmail.com)
