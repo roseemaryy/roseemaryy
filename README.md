@@ -95,8 +95,8 @@ My background is in ML Platform Engineering. I care about shipping models that a
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=roseemaryy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseemaryy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=roseemaryy&theme=dark&hide_border=true&background=0d1117&ring=F47B20&fire=F47B20&currStreakLabel=F47B20" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roseemaryy&theme=github_dark" height="160"/>
 </p>
 
 ---
