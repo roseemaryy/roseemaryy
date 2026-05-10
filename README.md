@@ -7,11 +7,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2471A3&center=true&vCenter=true&width=700&lines=Cancer+Genomics+%7C+Clinical+AI+%7C+Precision+Medicine;WGS+Pipelines+%7C+scRNA-seq+%7C+Survival+Analysis;Turning+raw+sequencing+data+into+clinical+decisions)](https://git.io/typing-svg)
 
 <br/>
-
-[![ORCiD](https://img.shields.io/badge/ORCiD-0009--0001--3303--2573-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3303-2573)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rosemaryjames.netlify.app-1A5276?style=for-the-badge&logo=netlify&logoColor=white)](https://rosemaryjames.netlify.app)
-[![Email](https://img.shields.io/badge/Email-kamaurosemary.n@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamaurosemary.n@gmail.com)
-
 </div>
 
 ---
